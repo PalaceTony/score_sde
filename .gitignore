@@ -19,5 +19,4 @@ dist/
 
 # Other
 *.DS_Store
-work_dir/stdout.txt
-work_dir/tensorboard/events.out.tfevents.1713233291.1a7e0ec57359.33053.3.v2
+work_dir
