@@ -12,7 +12,7 @@
       "console": "integratedTerminal",
       "args": [
         "--config",
-        "configs/ve/cifar10_ddpm.py",
+        "configs/subvp/cifar10_ddpm_continuous.py",
         "--mode",
         "train",
         "--workdir",
